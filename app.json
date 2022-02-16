@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "wheres-the-dev",
+    "slug": "wheres-the-dev",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "wheres-the-dev"
+}
